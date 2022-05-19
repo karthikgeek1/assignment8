@@ -1,0 +1,102 @@
+.a{
+    height: 15vh;
+    width: 100vw;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.b{
+    background-color: white;
+}
+.c{
+    border-color: lightseagreen;
+    border-style: solid;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.d{
+    border-color: lightseagreen;
+    border-style: dashed;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.e{
+    border-color: lightseagreen;
+    border-style: dotted;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.f{
+    border-color: lightseagreen;
+    border-style:groove;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 300px;
+    box-shadow: 10px 10px 10px black;
+}
+.g{
+    border-color: lightseagreen;
+    border-style:groove;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.h{
+    border-color: lightseagreen;
+    border-style:double;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 300px;
+    box-shadow: 10px 10px 10px black;
+}
+.i{
+    margin-top: 60px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.j{
+    height: 30vh;
+    width: 100vw;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    border-top-color: green;
+    border-bottom-color: blue;
+    border-left-color: red;
+    border-right-color: violet;
+    border-style: solid;
+    border-width: 10px;
+
+}
+.k{
+    background-color: lightseagreen;
+    color: white;
+    margin-top: 20px;
+    height: 15vh;
+    width: 100vw;
+    text-align: center;
+}
+.l{
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{
+    color: blue;
+}
